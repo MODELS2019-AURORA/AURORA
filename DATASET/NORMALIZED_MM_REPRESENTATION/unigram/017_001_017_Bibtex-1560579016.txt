@@ -1,0 +1,1 @@
+Bibtex [] LiteratureDb [] [] author entries name Entry [] [] title id author literaturedb Author name publications literaturedb

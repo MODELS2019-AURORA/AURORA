@@ -1,0 +1,1 @@
+statemachine Region state priority Node name id Transition targetNode priority expression id sourceNode State entry do exit region Pseudostate pseudoType DataElement name ioType port PseudoTypes DataTypes Variable dataType Event trigger IOTypes TriggerTypes Statechart dataElement region name transition UUID FinalState

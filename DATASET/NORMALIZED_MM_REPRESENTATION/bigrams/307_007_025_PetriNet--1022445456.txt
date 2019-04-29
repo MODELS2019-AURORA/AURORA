@@ -1,0 +1,1 @@
+petrinet.PetriNet PetriNet.nodes PetriNet.arcs PetriNet.name petrinet.Transition Transition.min_time Transition.max_time petrinet.Node Node.name Node.net Node.outgoings Node.incomings petrinet.Place Place.marking petrinet.Arc Arc.target Arc.source Arc.weight Arc.kind Arc.net petrinet.ArcKind

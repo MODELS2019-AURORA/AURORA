@@ -1,0 +1,1 @@
+Publication Publication.Publication.false Publication.title.String.1.1 Publication.authors.String.1.1 Publication.nbPages.Integer.1.1 PrimitiveTypes PrimitiveTypes.Integer PrimitiveTypes.String PrimitiveTypes.Boolean

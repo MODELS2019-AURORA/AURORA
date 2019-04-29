@@ -1,0 +1,1 @@
+requirement Repository mainCategories referencedObject Category requirements subCategories id repository parentCategory referencedObject Requirement [] id version referencedObject statement rationale acceptanceCriteria type category subtype status createdOn modifiedOn NamedElement name RequirementType

@@ -1,0 +1,1 @@
+automata Automata current initial states transitions finals State name Transition token source target name Initial state name Final state name Current state name

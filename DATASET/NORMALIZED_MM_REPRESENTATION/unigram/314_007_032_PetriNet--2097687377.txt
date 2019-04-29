@@ -1,0 +1,1 @@
+petrinet [] [] Network [] [] name nodes arcs Node [] [] name reseau predecessors successors ArcKind Arc [] [] readOnly kind tokensCount reseau source target Transition [] [] Place [] [] tokensCount

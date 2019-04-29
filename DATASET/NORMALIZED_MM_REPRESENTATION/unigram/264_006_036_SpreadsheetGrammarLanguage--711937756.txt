@@ -1,0 +1,1 @@
+spreadsheetGrammarLanguage Grammar name root elements Element name Block columns Column name multiple def ColumnDefinition spec MandatoryColumn OptionalColumn ColumnSpec RowSpec header syntax BlockSpec kind Syntax is_id is_string is_int token rule Rule alternatives SyntaxSeq parts

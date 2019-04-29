@@ -1,0 +1,1 @@
+PrimitiveTypes PrimitiveTypes.Integer PrimitiveTypes.String PrimitiveTypes.Boolean Book Book.Book.false Book.title.String.1.1 Book.chapters.Chapter.false.0.-1 Book.Chapter.false Chapter.title.String.1.1 Chapter.nbPages.Integer.1.1 Chapter.author.String.1.1 Chapter.book.Book.true.1.1

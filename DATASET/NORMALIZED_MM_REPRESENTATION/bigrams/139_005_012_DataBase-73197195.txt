@@ -1,0 +1,1 @@
+database.DataBase DataBase.tables database.Table Table.dataBase Table.columns Table.indexes Table.storageEngine Table.collation Table.primaryKey Table.uniques database.Column Column.type Column.nullable Column.default Column.length Column.collation database.PrimaryKey database.Index Index.columns database.Unique database.NamedElement NamedElement.name

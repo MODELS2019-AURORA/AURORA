@@ -1,0 +1,1 @@
+states.Module Module.name Module.machines states.Statemachine Statemachine.initial Statemachine.name Statemachine.value Statemachine.events Statemachine.states states.Event Event.name states.State State.initial State.name State.transitions states.SimpleState SimpleState.value states.CompoundState CompoundState.machine states.Transition Transition.event Transition.state

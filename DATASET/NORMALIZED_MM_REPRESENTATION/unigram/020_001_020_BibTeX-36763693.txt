@@ -1,0 +1,1 @@
+PrimitiveTypes String Integer BibTeX BibTeXFile entries Author author BibTeXEntry id AuthoredEntry authors DatedEntry year TitledEntry title BookTitledEntry booktitle Article journal TechReport Unpublished note Manual Proceedings InProceedings Booklet Book publisher InCollection InBook chapter Misc ThesisEntry school PhDThesis MasterThesis

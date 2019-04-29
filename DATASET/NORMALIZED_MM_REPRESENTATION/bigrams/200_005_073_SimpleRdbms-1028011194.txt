@@ -1,0 +1,1 @@
+SimpleRDBMS.Table Table.column Table.foreignKey Table._key Table.schema SimpleRDBMS.Column Column.type Column.owner Column._key Column.foreignKey SimpleRDBMS.Key Key.column Key.owner SimpleRDBMS.ForeignKey ForeignKey.column ForeignKey.refersTo ForeignKey.owner SimpleRDBMS.RModelElement RModelElement.kind RModelElement.name SimpleRDBMS.Schema Schema.tables

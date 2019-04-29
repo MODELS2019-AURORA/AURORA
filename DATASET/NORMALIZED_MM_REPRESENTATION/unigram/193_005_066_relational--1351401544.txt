@@ -1,0 +1,1 @@
+relational Database name url ownedSchemas Schema name ownedTables owner Table name ownedColumns ownedForeignKeys owner ForeignKey name foreignTable sourceTable Column name type isPrimaryKey isUnique owner Type ModelElement comment

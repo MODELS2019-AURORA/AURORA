@@ -1,0 +1,1 @@
+esql.CommunicationArea esql.Cursor esql.CursorTerm CursorTerm.cursorType CursorTerm.hold CursorTerm.sql CursorTerm.statementName esql.CursorType esql.DescriptorArea esql.ESqlObject esql.ESqlTerm ESqlTerm.name esql.Statement esql.StatementTerm esql.ESqlManager esql.ESqlFactory esql.FetchPositioning

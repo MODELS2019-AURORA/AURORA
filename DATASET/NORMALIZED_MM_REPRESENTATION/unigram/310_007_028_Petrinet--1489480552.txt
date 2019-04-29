@@ -1,0 +1,1 @@
+petrinet PetriNet name noeuds arcs Arc name source target arcType weight Noeud name Transition minTime maxTime Place marking ArcKindType

@@ -1,0 +1,1 @@
+minuml1 ModelElement name StateMachine top transitions ActivityGraph partition Partition contents StateVertex outgoing incoming State CompositeState subvertex ActionState isDynamic Pseudostate kind ObjectFlowState type FinalState Transition source target guard Guard expression BooleanExpression language body PseudostateKind

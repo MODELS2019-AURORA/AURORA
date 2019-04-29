@@ -1,0 +1,1 @@
+simplestatechart Thing [] id relations NamedElement [] name RelatedTo [] fromThing toThing since Variable [] type value Transition [] expression source target State [] label type activity substates parentstate variables transitions

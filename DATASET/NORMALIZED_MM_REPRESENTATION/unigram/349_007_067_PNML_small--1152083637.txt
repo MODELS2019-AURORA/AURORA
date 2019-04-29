@@ -1,0 +1,1 @@
+pnml PNMLDocument nets location PlaceElement name tokens TransitionElement name ArcPlace2Transition source target ArcTransition2Place target source Element id location NetElement contents name

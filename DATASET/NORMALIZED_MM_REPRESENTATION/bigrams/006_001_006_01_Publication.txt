@@ -1,0 +1,1 @@
+Publication.Publication Publication.title Publication.authors Publication.nbPages

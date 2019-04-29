@@ -1,0 +1,1 @@
+umlTransition TransitionRule triggers guard effect EventRule CallOrSignalEventRule operationOrSignal AnyReceiveEventRule isAReceiveEvent TimeEventRule expr RelativeTimeEventRule AbsoluteTimeEventRule ChangeEventRule exp GuardRule constraint EffectRule kind behaviorName BehaviorKind

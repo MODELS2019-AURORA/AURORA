@@ -1,0 +1,1 @@
+statemachine StateMachine [] declarations machineVariables [] Declaration [] Transition [] label sourceLabel targetLabel source target guardLabel actionLabel guardExpression actionStatement State [] label successors reachable [] id Action [] actionLabel actionStatement StateMachineVariable [] type name NormalState [] entry [] InitialState [] FinalState []

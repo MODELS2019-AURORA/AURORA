@@ -1,0 +1,1 @@
+nosql KeySpace name columnFamilies replicationFactor replicaPlacementStrategy ColumnFamily keyspace name columns primaryKey Column name type PrimitiveTypeType ReplicaPlacementStrategies DynamicColumnFamily clusteringKey StaticColumnFamily Type PrimitiveType kind DataStructureType MapType keyType baseType CollectionType kind keyType CollectionTypeType

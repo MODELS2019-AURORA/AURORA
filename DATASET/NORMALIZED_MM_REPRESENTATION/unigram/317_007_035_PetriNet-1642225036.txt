@@ -1,0 +1,1 @@
+PrimitiveTypes String Integer PetriNet PetriNet elements arcs Element name Place Transition Arc weight name PlaceToTransition from to TransitionToPlace from to

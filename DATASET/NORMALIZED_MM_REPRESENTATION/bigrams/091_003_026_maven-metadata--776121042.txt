@@ -1,0 +1,1 @@
+metadata.DocumentRoot DocumentRoot.mixed DocumentRoot.xMLNSPrefixMap DocumentRoot.xSISchemaLocation DocumentRoot.metadata metadata.MetaData MetaData.groupId MetaData.artifactId MetaData.version MetaData.versioning metadata.Versioning Versioning.release Versioning.latest Versioning.versions Versioning.lastUpdated metadata.Versions Versions.version

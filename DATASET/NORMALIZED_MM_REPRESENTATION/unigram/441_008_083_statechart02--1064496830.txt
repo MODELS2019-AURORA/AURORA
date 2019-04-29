@@ -1,0 +1,1 @@
+statechart02 State [] name label type activity substates parentstate variables transitions Transition [] name source target expression Variable [] name type value

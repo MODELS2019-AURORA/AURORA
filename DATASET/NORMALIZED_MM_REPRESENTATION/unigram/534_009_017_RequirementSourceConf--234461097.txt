@@ -1,0 +1,1 @@
+RequirementSourceConf RequirementSources requirementSources RequirementSource contents name properties connectorId mappings dataModelURI defaultScope repositoryURI destinationURI

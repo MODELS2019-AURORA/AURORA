@@ -1,0 +1,1 @@
+MySQL.NamedElement NamedElement.name MySQL.DataBase DataBase.tables MySQL.Table Table.columns Table.database MySQL.Column Column.type Column.isPrimaryKey Column.null Column.defaultValue Column.comment Column.table MySQL.IntegerColumn IntegerColumn.isAutoIncrement MySQL.EnumColumn EnumColumn.enumSet MySQL.EnumSet EnumSet.enumItems MySQL.EnumItem EnumItem.enumSet

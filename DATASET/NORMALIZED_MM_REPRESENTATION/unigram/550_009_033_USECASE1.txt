@@ -1,0 +1,1 @@
+USECASE1 Task service User useCase actor Actor useCase goal user Goal service actor UseCase context service user actor Service useCase goal task Scenario Context preCondition postCondition useCase PreCondition context PostCondition context Episode event Event episode Action Responce parameter Stimilus parameter Parameter stimilus responce PrimitiveTypes String Boolean Integer

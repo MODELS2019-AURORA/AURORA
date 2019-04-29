@@ -1,0 +1,1 @@
+petrinet.PetriNet PetriNet.name PetriNet.nodes PetriNet.arcs petrinet.Arc Arc.net Arc.source Arc.target petrinet.Node Node.name Node.net Node.incoming Node.outgoing petrinet.Transition Transition.seconds petrinet.Place Place.tokens petrinet.Token

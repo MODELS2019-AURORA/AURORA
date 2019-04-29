@@ -1,0 +1,1 @@
+statemachine statemachine.State.false State.initial.EBoolean.0.1 State.terminal.EBoolean.0.1 statemachine.StateMachine.false StateMachine.states.State.false.0.-1 StateMachine.delta.Transition.false.0.-1 statemachine.Transition.false Transition.start.State.false.1.1 Transition.end.State.false.1.1 Transition.label.EJavaObject.0.1 statemachine.Set.true

@@ -1,0 +1,1 @@
+cassandra [] Keyspace name columnfamilies ColumnFamily [] name rows Row [] key columns supercolumns Column [] key timestamp value SuperColumn [] key columns Timestamp Bytes IntegerType value UTF8Type value DataType FloatType value BooleanType value UUIDType value AsciiType value DoubleType value CounterColumnType value DecimalType value Decimal BytesType value DateType value

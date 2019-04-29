@@ -1,0 +1,1 @@
+extendedpetrinet ExtendedPetriNet Arc identity Place interactiveInput animations tokens appearance geometryLabel Identity text InteractiveInput text Token text AnimationLabel structure InputPlaceAppearance text GeometryLabel text

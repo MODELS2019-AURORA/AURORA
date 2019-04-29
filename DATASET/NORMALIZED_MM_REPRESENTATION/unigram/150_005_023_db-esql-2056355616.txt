@@ -1,0 +1,1 @@
+esql CommunicationArea Cursor CursorRecord CursorTerm cursorType hold sql statementName CursorType DescriptorArea ESqlObject ESqlTerm name Statement StatementTerm ESqlManager ESqlFactory FetchPositioning

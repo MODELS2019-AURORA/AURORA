@@ -1,0 +1,1 @@
+db.NamedElement NamedElement.name db.Database Database.contents db.DatabaseElement DatabaseElement.database db.Table Table.columns Table.primaryKeys db.Column Column.table Column.type db.ForeignKey ForeignKey.parent ForeignKey.child ForeignKey.isMany

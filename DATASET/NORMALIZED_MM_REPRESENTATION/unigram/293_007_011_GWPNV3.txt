@@ -1,0 +1,1 @@
+PetriNet Place net out in Transition net in out Net place transition Arc PTArc dst src TPArc src dst

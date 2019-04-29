@@ -1,0 +1,1 @@
+PrimitiveTypes String Boolean Integer ControllerUML ControllerAttribute controller Controller controllerAttribute behavior StateMachine states State substates theContainer outGoing incoming SubControllerState controller ViewState StateTransition source target trigger effect StateMachineAction Event

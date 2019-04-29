@@ -1,0 +1,1 @@
+umlState StateRule name submachine entry do exit SubmachineRule path submachine QualifiedName path remaining EntryRule kind behaviorName DoRule kind behaviorName ExitRule kind behaviorName BehaviorKind

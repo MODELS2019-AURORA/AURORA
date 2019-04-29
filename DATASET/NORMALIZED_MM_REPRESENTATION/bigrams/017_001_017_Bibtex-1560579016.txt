@@ -1,0 +1,1 @@
+Bibtex.LiteratureDb LiteratureDb.author LiteratureDb.entries LiteratureDb.name Bibtex.Entry Entry.title Entry.id Entry.author Entry.literaturedb Bibtex.Author Author.name Author.publications Author.literaturedb

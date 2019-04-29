@@ -1,0 +1,1 @@
+FSMModel [] State [] inputTransitions outputTransitions Transition [] source target guard [] trigger [] actions [] StateMachineDefinition declarationBlock transitions states initialStates finalStates AbstractTrigger AbstractAction AbstractGuard Guard value Trigger trueTriggers falseTriggers IntegerAssignement DeclarationBlock concreteEntities classicalExpressions

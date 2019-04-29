@@ -1,0 +1,1 @@
+uml StateMachine region [] [] Transition effect [] [] trigger [] target [] source [] /name Trigger /name Behavior /name Region subvertex [] [] transition [] [] Pseudostate kind [] PseudostateKind [] [] [] [] [] [] [] [] [] [] FinalState Vertex container [] [] /name Activity State entry [] [] exit [] [] doActivity [] []

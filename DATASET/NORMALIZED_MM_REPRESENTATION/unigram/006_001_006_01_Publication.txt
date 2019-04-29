@@ -1,0 +1,1 @@
+Publication Publication title authors nbPages PrimitiveTypes Integer String Boolean

@@ -1,0 +1,1 @@
+petrinet.Network Network.name Network.nodes Network.arcs petrinet.Node Node.name Node.reseau Node.predecessors Node.successors petrinet.ArcKind petrinet.Arc Arc.readOnly Arc.kind Arc.tokensCount Arc.reseau Arc.source Arc.target petrinet.Transition petrinet.Place Place.tokensCount

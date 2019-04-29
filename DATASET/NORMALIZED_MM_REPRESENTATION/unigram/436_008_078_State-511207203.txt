@@ -1,0 +1,1 @@
+state Node incoming outgoing Transition source target guard triggerEventName InitialNode FinalNode ConditionalNode condition State name duration StateMachine nodes transitions name module Condition expression TimeoutTransition

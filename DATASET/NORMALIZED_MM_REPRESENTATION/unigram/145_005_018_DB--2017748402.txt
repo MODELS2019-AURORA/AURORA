@@ -1,0 +1,1 @@
+DB NamedElement name Database contents DatabaseElement database Table columns primaryKeys Column table type ForeignKey parent child isMany

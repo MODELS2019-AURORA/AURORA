@@ -1,0 +1,1 @@
+petrinet PetriNet name nodes arcs Arc net source target Node name net incoming outgoing Transition Place tokens Token

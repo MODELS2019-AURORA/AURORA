@@ -1,0 +1,1 @@
+PetriNet.PetriNet PetriNet.elements PetriNet.arcs PetriNet.Element Element.name PetriNet.Place PetriNet.Transition PetriNet.Arc Arc.weight Arc.name PetriNet.PlaceToTransition PlaceToTransition.from PlaceToTransition.to PetriNet.TransitionToPlace TransitionToPlace.from TransitionToPlace.to

@@ -1,0 +1,1 @@
+mmb.Model Model.Name Model.automata mmb.Automaton Automaton.Name Automaton.modes Automaton.transistions mmb.Mode Mode.Name Mode.InitialState Mode.Shape Mode.Dimension Mode.Modifications mmb.Transition Transition.Event Transition.sourceMode Transition.targetMode mmb.Modification Modification.VarName Modification.VarType

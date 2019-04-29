@@ -1,0 +1,1 @@
+zhu StateMachine region TopRegion states regions transitions Region name states regions transitions Transitions firstTransition followingTransitions Transition source target triggers guard behaviour States states StatesSeparated firstState followingStates State name Triggers triggers TriggersSeparated firstTrigger followingTriggers

@@ -1,0 +1,1 @@
+UMLRealTimeStateMach RTStateMachine [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] base_StateMachine isPassive RTRegion [] [] [] [] base_Region RTState [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] base_State RTPseudostate [] [] [] [] base_Pseudostate RTTrigger base_Operation

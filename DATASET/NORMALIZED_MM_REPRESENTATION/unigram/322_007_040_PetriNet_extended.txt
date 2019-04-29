@@ -1,0 +1,1 @@
+PetriNet LocatedElement location NamedElement name PetriNet elements arcs execs Element net Place incomingArc outgoingArc Transition incomingArc outgoingArc Arc weight net PlaceToTransition from to TransitionToPlace from to Execution net markings movements Token placedAt marking Marking exec tokens Movement exec fire source target PrimitiveTypes String Integer

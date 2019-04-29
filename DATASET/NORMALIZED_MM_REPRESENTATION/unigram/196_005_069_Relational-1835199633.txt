@@ -1,0 +1,1 @@
+Relational Schema name tables domains constraints Table name primaryKey candidateKey attributes foreignKey Attribute name type nullable domain multiplicity Domain name constraints AttributeType CandidateKey attributes name ForeignKey referencedTable PrimitiveType EnumerationType literals EnumeratedLiteral name Constraint name description

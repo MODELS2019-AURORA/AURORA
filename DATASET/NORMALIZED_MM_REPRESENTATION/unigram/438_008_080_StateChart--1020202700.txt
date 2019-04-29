@@ -1,0 +1,1 @@
+statechart Model name nodes transitions variables Node name label type activity variables Children Father_of Transition TE name source target Variable name type

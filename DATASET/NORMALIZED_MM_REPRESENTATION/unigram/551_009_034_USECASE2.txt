@@ -1,0 +1,1 @@
+PrimitiveTypes String Boolean Integer USECASEUML Requirement NonFunctionnelRequirement scopes FunctionnelRequirement specifies UseCase scenario condition interacter specified_by scoped_by meet_by Goal to_meet Role interacted_with HumanRole SystemRole EventRole Manage managed_Resource Resource ScenarioDescription useCase Condition constrained_with Pre Post

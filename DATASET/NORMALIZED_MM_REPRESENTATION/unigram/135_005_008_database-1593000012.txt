@@ -1,0 +1,1 @@
+database Schema tables name Table cols fkeys name pkey is_local Column type name ForeignKey cols references

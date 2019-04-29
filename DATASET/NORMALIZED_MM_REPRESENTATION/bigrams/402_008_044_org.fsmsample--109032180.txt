@@ -1,0 +1,1 @@
+fsmSample.FSM FSM.ownedState FSM.initialState FSM.finalState FSM.currentState FSM.name fsmSample.State State.owningFSM State.name State.outgoingTransition State.incomingTransition fsmSample.Transition Transition.source Transition.target Transition.input Transition.output Transition.action fsmSample.Action Action.name

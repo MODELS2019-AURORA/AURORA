@@ -1,0 +1,1 @@
+statechart01.State State.name State.label State.type State.activity State.substates State.parentstate State.variables State.transitions statechart01.Transition Transition.name Transition.source Transition.target Transition.expression statechart01.Variable Variable.name Variable.type Variable.value

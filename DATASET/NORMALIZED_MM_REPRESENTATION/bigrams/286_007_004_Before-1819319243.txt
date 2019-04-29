@@ -1,0 +1,1 @@
+lit_petriNets.Net Net.places Net.transitions Net.arcs lit_petriNets.Place Place.net Place.name Place.out Place.in lit_petriNets.Transition Transition.net Transition.in Transition.out Transition.name lit_petriNets.PTArc PTArc.src PTArc.dst lit_petriNets.TPArc TPArc.src TPArc.dst lit_petriNets.Arc Arc.net

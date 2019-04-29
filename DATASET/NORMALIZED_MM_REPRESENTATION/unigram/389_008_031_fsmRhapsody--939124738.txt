@@ -1,0 +1,1 @@
+fsm StateMachine regions Region subvertex transitions ownerState AbstractState incoming outgoing ownerRegion State doActivity entry exit ownedRegions Transition trigger target source effect [] guard Trigger expression Pseudostate InitialState Fork Join ShallowHistory Junction Conditional FinalState Constraint Statement Program statements NamedElement name

@@ -1,0 +1,1 @@
+BibText LocatedElement location BibTextFile entries BibTextEntry key attributes Article author Attribute value Year Author name articles

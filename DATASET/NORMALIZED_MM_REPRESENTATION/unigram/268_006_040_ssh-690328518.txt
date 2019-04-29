@@ -1,0 +1,1 @@
+spreadsheet SpreadsheetFile sheet nbSheet Sheet text image table name Text title textContent Title hiearchy Image title imagePos width height Point x y Table title header row nbColumns tablePos Header cell Cell posCell Row cell

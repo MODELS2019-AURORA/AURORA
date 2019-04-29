@@ -1,0 +1,1 @@
+ctmc [] [] CTMC [] [] name States initialState State [] [] name incoming outgoing labels exitRate Transition [] [] from to prob rate Label name state

@@ -1,0 +1,1 @@
+pETRI.PetriNet PetriNet.name PetriNet.petriNetElements pETRI.PetriNetElement pETRI.Node Node.name pETRI.Place Place.marking pETRI.Transition pETRI.Arc Arc.multiplicity Arc.readOnly Arc.predecessor Arc.successor

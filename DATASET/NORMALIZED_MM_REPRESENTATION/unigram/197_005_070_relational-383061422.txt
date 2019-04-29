@@ -1,0 +1,1 @@
+relational Column name type Table column key foreignKey name Key column referredBy table name ForeignKey column refersTo table

@@ -1,0 +1,1 @@
+database.Schema Schema.tables Schema.name database.Table Table.cols Table.fkeys Table.name Table.pkey Table.is_local database.Column Column.type Column.name database.ForeignKey ForeignKey.cols ForeignKey.references

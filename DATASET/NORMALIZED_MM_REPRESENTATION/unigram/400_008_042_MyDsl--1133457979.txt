@@ -1,0 +1,1 @@
+myDsl Statemachine events services states Service type name Event resetEvent name State name action transitions Transition event state

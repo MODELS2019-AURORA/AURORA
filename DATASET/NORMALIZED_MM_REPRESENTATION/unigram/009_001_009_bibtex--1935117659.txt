@@ -1,0 +1,1 @@
+Bibtex BibtexEntry [] Text [] Title Author Journal Volume Pages Year Tags publicationFilePath Tag [] Name

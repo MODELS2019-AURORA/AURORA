@@ -1,0 +1,1 @@
+PetriNets Place name capacity numberOfTokens PetriNet name containsPlaces containsTransitions containsInputArcs containsOutputArcs Transition name InputArc InputArcFromPlace InputArcToTransition weight OutputArc OutputArcFromTransition OutputArcToPlace weight

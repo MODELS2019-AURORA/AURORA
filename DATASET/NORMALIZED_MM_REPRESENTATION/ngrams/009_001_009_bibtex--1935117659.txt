@@ -1,0 +1,1 @@
+Bibtex Bibtex.BibtexEntry.false BibtexEntry.Text.EString.0.1 BibtexEntry.Title.EString.0.1 BibtexEntry.Author.EString.0.1 BibtexEntry.Journal.EString.0.1 BibtexEntry.Volume.EString.0.1 BibtexEntry.Pages.EString.0.1 BibtexEntry.Year.EString.0.1 BibtexEntry.Tags.Tag.false.0.-1 BibtexEntry.publicationFilePath.EString.0.1 Bibtex.Tag.false Tag.Name.EString.0.1

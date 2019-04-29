@@ -1,0 +1,1 @@
+RDBMS Schema name table foreignKey Table name schema column hasKey hasForeignKey Column name type owner hasKey hasForeignKey Key name owner column referredBy ForeignKey schema refersTo name owner column

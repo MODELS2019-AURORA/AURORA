@@ -1,0 +1,1 @@
+dbschema [] NamedElement [] name [] DBSchema [] tables [] Table [] columns [] Column [] type [] size [] primary [] AttributeColumn [] ForeignKeyColumn [] referencedColumn [] ColumnType [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] [] []

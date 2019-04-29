@@ -1,0 +1,1 @@
+lit_petriNets Net places transitions arcs Place net name in out Transition net name in out Arc net PTArc s d TPArc s d

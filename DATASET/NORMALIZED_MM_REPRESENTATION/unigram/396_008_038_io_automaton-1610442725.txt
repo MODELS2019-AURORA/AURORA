@@ -1,0 +1,1 @@
+IOAutomaton Automaton z ingoing outcoming delta z0 name State name Transition preState postState input activation name Activation output returnValue name ReturnValue name isVoid Input operation name Output name operation outObject returnValue Object name Operation name

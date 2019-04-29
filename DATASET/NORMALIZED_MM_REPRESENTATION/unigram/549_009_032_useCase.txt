@@ -1,0 +1,1 @@
+UseCase Actor UseCase include extend Extend extension Include includingCase UseCaseContainer ownedElement BehavioredClassifier NamedElement name Association actor useCase PrimitiveTypes String

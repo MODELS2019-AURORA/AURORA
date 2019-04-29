@@ -1,0 +1,1 @@
+cpndefinition CPN Place initialMarking sort Arc expression Transition guard Page ArcExpression CPNInscription text Guard InitialMarking Sort

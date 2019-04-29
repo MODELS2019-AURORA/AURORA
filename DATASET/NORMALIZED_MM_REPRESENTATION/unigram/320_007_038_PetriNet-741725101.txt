@@ -1,0 +1,1 @@
+PetriNet PetriNet nodes arcs name Transition min_time max_time Node name net outgoings incomings Place marking Arc target source weight kind net ArcKind

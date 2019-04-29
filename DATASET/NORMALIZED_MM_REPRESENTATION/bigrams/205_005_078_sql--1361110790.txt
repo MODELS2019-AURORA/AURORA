@@ -1,0 +1,1 @@
+sql.SqlProvides SqlProvides.url SqlProvides.user SqlProvides.password SqlProvides.driver SqlProvides.maxActive SqlProvides.maxIdle SqlProvides.minIdle SqlProvides.maxWait SqlProvides.timeBetweenEvictionRunsMillis SqlProvides.metadata SqlProvides.storedProcedure

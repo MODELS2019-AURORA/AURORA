@@ -1,0 +1,1 @@
+SimpleRDBMS RModelElement kind name Schema tables Table schema column key foreignKey Column type owner key foreignKey Key owner column refersToOpposite ForeignKey column owner refersTo PrimitiveTypes String

@@ -1,0 +1,1 @@
+fsm NamedElement name StateMachine states transitions State outgoing incoming stateMachine initialTime finalTime FinalState InitialState Transition target source trigger stateMachine initialTime finalTime time TimedTransition duration Trigger expression Pseudostate Fork Join

@@ -1,0 +1,1 @@
+statemachine Statemachine states transitions State initial final id name actions Transition sourceState targetState event Command SetCommand signal value ExecuteCommand operation arguments PrintCommand value Expression VerbatimExpression code StatePropertyExpression state property

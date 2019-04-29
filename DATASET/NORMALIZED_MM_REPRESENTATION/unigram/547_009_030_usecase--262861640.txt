@@ -1,0 +1,1 @@
+mtpusecase NamedElement name Package packableElements PackableElement HasInheritance inheritances Generalization src target Comment target UseCase includes extends Actor Relation source target DirectedAssociation targetName Association targetName sourceName Include source target Extend source target TransformationActor RequirementUseCase ConstraintComment

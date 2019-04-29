@@ -1,0 +1,1 @@
+database Database DbFK DbTable Table Name DbTableRoot TableColumn Column Name ColumnTable Type IsPrimaryKey ForeignKey SourceTable TargetTable SourceColumn TargetColumn DbFkRoot Name DataType

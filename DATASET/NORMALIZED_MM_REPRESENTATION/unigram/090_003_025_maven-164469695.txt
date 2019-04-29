@@ -1,0 +1,1 @@
+maven GroupAndArtifact artifactId groupId MapEntry name aliases [] Mappings entries [] rules [] MavenProvider mappings [] scopes [] transitive Scopes scope [] Scope name exclude

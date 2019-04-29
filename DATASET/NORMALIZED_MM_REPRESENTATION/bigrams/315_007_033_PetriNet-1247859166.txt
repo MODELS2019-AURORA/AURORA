@@ -1,0 +1,1 @@
+petrinet.Place Place.token Place.name Place.inhibitorArc petrinet.Arc Arc.weight Arc.toPlace Arc.transition Arc.place petrinet.Transition Transition.name petrinet.PetriNet PetriNet.places PetriNet.arcs PetriNet.transitions PetriNet.name

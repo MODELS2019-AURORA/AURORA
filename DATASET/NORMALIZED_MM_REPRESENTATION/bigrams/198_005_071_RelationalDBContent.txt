@@ -1,0 +1,1 @@
+RelationalDBContent.NamedElement NamedElement.name RelationalDBContent.DataBase DataBase.SGBDname DataBase.tables RelationalDBContent.Table Table.database Table.tuples RelationalDBContent.Tuple Tuple.owner Tuple.elements RelationalDBContent.TupleElement TupleElement.tuple TupleElement.value

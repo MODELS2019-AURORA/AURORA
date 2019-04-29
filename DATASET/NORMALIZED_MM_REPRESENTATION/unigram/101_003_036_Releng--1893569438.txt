@@ -1,0 +1,1 @@
+releng Server name buildJobs repositories BuildJob name sourceBranch buckminsterComponent types result promotions BuildType Promotion build buildType target criteria Criterion description Repository location CompositeRepository elements

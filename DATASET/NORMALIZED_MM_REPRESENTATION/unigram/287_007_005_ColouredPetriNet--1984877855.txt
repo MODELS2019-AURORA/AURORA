@@ -1,0 +1,1 @@
+PetriNet [] PetriNet places transitions arcs types Type name components PrimitiveAttribute name primType Token values Place tokens type Transition Arc weight PlaceToTransArc source target TransToPlaceArc source target IdentifiableElement name [] author []

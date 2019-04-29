@@ -1,0 +1,1 @@
+statemachine ActionKind Named name comment GAbstractState actions GAbstractAction [] kind GState Transition from to guard delay signals preserveTimers GCompositeState states transitions GStartState GStopState GStatemachine [] parameter package CallAction call Parameter Value GetParameter parameter Call actionId ConstantValue value StringValue NumberValue BooleanValue LongValue

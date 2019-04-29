@@ -1,0 +1,1 @@
+petriNet Place capacity PetriNet name containsGenericPlaces containsTransitions containsInputArcs containsOutputArcs Transition name InputArc InputArcFromPlace InputArcToTransition weight OutputArc OutputArcFromTransition OutputArcToPlace weight Resource GenericPlace name numberOfTokens

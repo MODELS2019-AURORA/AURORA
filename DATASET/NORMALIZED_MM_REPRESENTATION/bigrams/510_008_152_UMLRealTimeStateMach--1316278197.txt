@@ -1,0 +1,1 @@
+UMLRealTimeStateMach.RTStateMachine RTStateMachine.base_StateMachine RTStateMachine.isPassive UMLRealTimeStateMach.RTRegion RTRegion.base_Region UMLRealTimeStateMach.RTState RTState.base_State UMLRealTimeStateMach.RTPseudostate RTPseudostate.base_Pseudostate UMLRealTimeStateMach.RTTrigger RTTrigger.base_Operation

@@ -1,0 +1,1 @@
+NHSM State name owningStateMachine Transition trigger target source effect owningStateMachine StateMachine ownedState ownedTransition name InitialState FinalState

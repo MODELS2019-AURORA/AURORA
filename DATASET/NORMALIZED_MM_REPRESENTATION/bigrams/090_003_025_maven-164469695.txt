@@ -1,0 +1,1 @@
+maven.GroupAndArtifact GroupAndArtifact.artifactId GroupAndArtifact.groupId maven.MapEntry MapEntry.name MapEntry.aliases maven.Mappings Mappings.entries Mappings.rules maven.MavenProvider MavenProvider.mappings MavenProvider.scopes MavenProvider.transitive maven.Scopes Scopes.scope maven.Scope Scope.name Scope.exclude

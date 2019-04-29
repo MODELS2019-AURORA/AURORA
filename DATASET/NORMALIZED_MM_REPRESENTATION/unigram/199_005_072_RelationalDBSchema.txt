@@ -1,0 +1,1 @@
+RelationalDBSchema NamedElement name DataBase SGBDname tables Table database columns key Column dataType null defaultValue owner keyOf PrimitiveTypes Integer String Boolean Double

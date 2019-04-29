@@ -1,0 +1,1 @@
+DFAAutomaton.Automaton Automaton.name Automaton.states Automaton.transitions Automaton.alphabet DFAAutomaton.AlphabetSymbol AlphabetSymbol.symbol DFAAutomaton.State State.name State.isInitial State.isFinal DFAAutomaton.Transition Transition.src Transition.tar Transition.symbol

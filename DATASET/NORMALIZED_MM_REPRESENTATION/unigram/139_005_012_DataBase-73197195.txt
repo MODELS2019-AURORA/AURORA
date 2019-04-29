@@ -1,0 +1,1 @@
+database DataBase tables Table dataBase columns indexes storageEngine collation primaryKey [] uniques [] Column type nullable default length collation PrimaryKey Index columns Unique NamedElement name

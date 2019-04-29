@@ -1,0 +1,1 @@
+dfa Dfa language regularStates initialState finalStates NamedElement name State description InitialState FinalState Transition targetState symbols Language symbols Symbol literal description direction RegularState transitions

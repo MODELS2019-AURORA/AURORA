@@ -1,0 +1,1 @@
+conference Conference place participants talks topics sites name overview Person firstname lastname age eclipseCommiter assists gender isRegistered Talk title topic type presenter [] creator documentation Topic description references documentation TALK_TYPE GENDER Site documentation name rooms Room name capacity

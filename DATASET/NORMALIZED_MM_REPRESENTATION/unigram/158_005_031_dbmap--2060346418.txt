@@ -1,0 +1,1 @@
+dbmap DBMapData VarTables InputTables OutputTables DBMapperTableEntry name expression type nullable join operator AbstractDBDataMapTable name minimized readonly DBMapperTableEntries tableName AbstaceDBInOutTable VarTable InputTable joinType alias OutputTable FilterEntries FilterEntry name expression

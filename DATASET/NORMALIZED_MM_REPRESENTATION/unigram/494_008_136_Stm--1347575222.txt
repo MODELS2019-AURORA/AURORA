@@ -1,0 +1,1 @@
+stm Statemachine events commands guards states Event name Command name State name entryActions doAction stopAction states selfEvents transitions exitActions Transition event guard state action SelfEvent event guard action GuardCall guard parameters Guard name parameters Parameter name type

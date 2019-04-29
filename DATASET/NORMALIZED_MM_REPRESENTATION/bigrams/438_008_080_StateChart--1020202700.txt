@@ -1,0 +1,1 @@
+statechart.Model Model.name Model.nodes Model.transitions Model.variables statechart.Node Node.name Node.label Node.type Node.activity Node.variables Node.Children Node.Father_of statechart.Transition Transition.TE Transition.name Transition.source Transition.target statechart.Variable Variable.name Variable.type

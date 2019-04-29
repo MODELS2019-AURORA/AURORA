@@ -1,0 +1,1 @@
+petrinetDsl PetriNet resources places transactions Resource name Place name storages Storage resourceRef count capacity Transaction name assureStatements takeStatements putStatements AssureStatement count resourceRef placeRef TakeStatement count resourceRef placeRef PutStatement count resourceRef placeRef

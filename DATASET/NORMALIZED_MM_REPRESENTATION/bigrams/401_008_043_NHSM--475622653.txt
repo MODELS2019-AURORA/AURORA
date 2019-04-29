@@ -1,0 +1,1 @@
+NHSM.State State.name State.owningStateMachine NHSM.Transition Transition.trigger Transition.target Transition.source Transition.effect Transition.owningStateMachine NHSM.StateMachine StateMachine.ownedState StateMachine.ownedTransition StateMachine.name NHSM.InitialState NHSM.FinalState

@@ -1,0 +1,1 @@
+RelationalDBContent NamedElement name DataBase SGBDname tables Table database tuples Tuple owner elements TupleElement tuple value PrimitiveTypes Integer String Boolean Double

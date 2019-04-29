@@ -1,0 +1,1 @@
+database.Database Database.DbFK Database.DbTable database.Table Table.Name Table.DbTableRoot Table.TableColumn database.Column Column.Name Column.ColumnTable Column.Type Column.IsPrimaryKey database.ForeignKey ForeignKey.SourceTable ForeignKey.TargetTable ForeignKey.SourceColumn ForeignKey.TargetColumn ForeignKey.DbFkRoot ForeignKey.Name database.DataType

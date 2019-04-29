@@ -1,0 +1,1 @@
+dSDL Database name table Table name attribute Attribute attributeName type property Type Property Integer integer length Varchar varchar length Text text DateTime date PrimaryKey primaryKey AutoIncrement autoIncrement Nullable nullable ForeignKey tableName attributeName

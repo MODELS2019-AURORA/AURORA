@@ -1,0 +1,1 @@
+relational.Column Column.name Column.type relational.Table Table.column Table.key Table.foreignKey Table.name relational.Key Key.column Key.referredBy Key.table Key.name relational.ForeignKey ForeignKey.column ForeignKey.refersTo ForeignKey.table

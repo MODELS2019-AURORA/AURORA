@@ -1,0 +1,1 @@
+relational.DataBase DataBase.schemas DataBase.uri DataBase.port relational.Schema Schema.tables Schema.name relational.Table Table.fields Table.name relational.Field Field.name relational.Type relational.PrimaryKey PrimaryKey.id relational.ForeignKey ForeignKey.reference relational.Column Column.type

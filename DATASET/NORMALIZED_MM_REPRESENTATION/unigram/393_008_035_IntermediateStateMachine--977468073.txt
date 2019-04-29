@@ -1,0 +1,1 @@
+MDAIntermediateStateMachine Content states automatons operations participants name messages State name sequences Automaton initialState states transitions participant name Transition preState postState input returnValue Operation name Message operation receiver returnValue Participant name Value value MessageSequence messages

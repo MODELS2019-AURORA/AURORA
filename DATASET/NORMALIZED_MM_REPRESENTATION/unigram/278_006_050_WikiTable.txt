@@ -1,0 +1,1 @@
+WikiTable LocatedElement location commentsBefore commentsAfter Table border style class caption rows Caption content Row cells Cell isHeading align style content PrimitiveTypes Boolean Double Integer String

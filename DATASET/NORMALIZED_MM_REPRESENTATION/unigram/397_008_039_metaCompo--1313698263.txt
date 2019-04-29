@@ -1,0 +1,1 @@
+metaCompo mComp subComps ports FSMs compVar type name mPort name io type connectedTo connToVar mIO mFSM component fsmVar name states initialState finalState mVariable name type mState owningFSM name stateVar outgoingTransitions incomingTransitions subStates mTransition name source destination triggerExp guard action trigerringVar triggeringPort

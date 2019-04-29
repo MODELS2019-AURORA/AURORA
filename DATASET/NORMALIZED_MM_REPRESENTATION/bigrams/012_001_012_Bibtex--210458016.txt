@@ -1,0 +1,1 @@
+bibtex.Article Article.journal Article.volume Article.number Article.pages Article.note bibtex.Entries bibtex.Bibtex Bibtex.entries bibtex.Book Book.publisher Book.volume Book.series Book.address Book.edition bibtex.AuthoredEntry bibtex.Author Author.name Author.surname Author.has bibtex.DatedEntry DatedEntry.year bibtex.MonthEntry MonthEntry.month

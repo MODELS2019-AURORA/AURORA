@@ -1,0 +1,1 @@
+PetriNetMM2 PetriNetModel elements PetriNetModelElement modelContainer PetriNet name places transitions arcs Place net out in name relevance Transition net in out name relevance Arc weight PTArc src dst TPArc src dst GenericPT label PrimitiveTypes String Integer

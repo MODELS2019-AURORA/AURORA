@@ -1,0 +1,1 @@
+Make Makefile name comment elements Element name Rule dependencies shellLines Macro value ShellLine command display ruleShellLine Comment text Dependency RuleDep ruledep FileDep name PrimitiveTypes String Boolean

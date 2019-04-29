@@ -1,0 +1,1 @@
+PNML LocatedElement location IdedElement id URI value PNMLDocument xmlns nets NetElement type document contents name NetContent net name LabeledElement labels Label text labeledElement Name net netContent NetContentElement Arc source target Place Transition PrimitiveTypes Integer String

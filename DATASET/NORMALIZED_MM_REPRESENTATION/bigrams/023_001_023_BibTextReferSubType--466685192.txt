@@ -1,0 +1,1 @@
+BibText.LocatedElement LocatedElement.location BibText.BibTextFile BibTextFile.entries BibText.BibTextEntry BibTextEntry.key BibTextEntry.attributes BibText.Article Article.author BibText.Attribute Attribute.value BibText.Year BibText.Author Author.name Author.articles

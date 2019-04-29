@@ -1,0 +1,1 @@
+rqsDsl.Model Model.requirements Model.annotations rqsDsl.Requirement Requirement.text rqsDsl.TAnnotation TAnnotation.num TAnnotation.id TAnnotation.type TAnnotation.a TAnnotation.b TAnnotation.text rqsDsl.RAnnotation RAnnotation.num RAnnotation.id RAnnotation.type RAnnotation.aa RAnnotation.ab RAnnotation.ba RAnnotation.bb

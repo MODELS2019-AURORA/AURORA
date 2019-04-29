@@ -1,0 +1,1 @@
+cpndefinition.CPN cpndefinition.Place Place.initialMarking Place.sort cpndefinition.Arc Arc.expression cpndefinition.Transition Transition.guard cpndefinition.Page cpndefinition.ArcExpression cpndefinition.CPNInscription CPNInscription.text cpndefinition.Guard cpndefinition.InitialMarking cpndefinition.Sort

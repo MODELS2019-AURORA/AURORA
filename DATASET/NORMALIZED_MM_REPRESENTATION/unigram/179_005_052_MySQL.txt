@@ -1,0 +1,1 @@
+PrimitiveTypes Boolean Integer String MySQL NamedElement name DataBase tables Table columns database Column type isPrimaryKey null defaultValue comment table IntegerColumn isAutoIncrement EnumColumn enumSet EnumSet enumItems EnumItem enumSet

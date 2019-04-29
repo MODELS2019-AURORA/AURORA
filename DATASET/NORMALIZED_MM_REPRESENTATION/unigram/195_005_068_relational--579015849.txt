@@ -1,0 +1,1 @@
+relational DataBase schemas uri port Schema tables name Table fields name Field name Type PrimaryKey id ForeignKey reference Column type

@@ -1,0 +1,1 @@
+nupn [] PlaceList [] SizeType [] [] arcs [] places [] transitions [] StructureType [] unit root [] safe [] units [] NUPNToolspecificType [] size structure tool [] version [] mixed [] xMLNSPrefixMap [] xSISchemaLocation [] UnitList [] UnitType [] id [] places subunits

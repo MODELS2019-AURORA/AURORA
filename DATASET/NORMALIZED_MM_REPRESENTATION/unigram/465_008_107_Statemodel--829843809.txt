@@ -1,0 +1,1 @@
+statemodel Model imports elements Import importURI Element annotation Statemachine entity state State type name element Activity TransitionBlock event transition Transition guard action state StateType

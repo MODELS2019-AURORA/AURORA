@@ -1,0 +1,1 @@
+DFAAutomaton [] Automaton [] [] name states transitions alphabet AlphabetSymbol symbol State name isInitial isFinal Transition src tar symbol

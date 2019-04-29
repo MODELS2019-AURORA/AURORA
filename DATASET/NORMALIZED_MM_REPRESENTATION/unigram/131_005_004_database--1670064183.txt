@@ -1,0 +1,1 @@
+database [] Scheme [] [] name tables columns Table [] [] name columns Column name type table NotNull PrimaryKey fk

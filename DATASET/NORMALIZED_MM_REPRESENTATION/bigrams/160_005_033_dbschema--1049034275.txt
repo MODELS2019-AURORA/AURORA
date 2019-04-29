@@ -1,0 +1,1 @@
+dbschema.NamedElement NamedElement.name dbschema.DBSchema DBSchema.tables dbschema.Table Table.columns dbschema.Column Column.type Column.size Column.primary dbschema.AttributeColumn dbschema.ForeignKeyColumn ForeignKeyColumn.referencedColumn dbschema.ColumnType

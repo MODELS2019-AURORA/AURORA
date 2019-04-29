@@ -1,0 +1,1 @@
+mmb Model Name automata Automaton Name modes transistions Mode Name InitialState Shape Dimension Modifications Transition Event sourceMode targetMode Modification VarName VarType

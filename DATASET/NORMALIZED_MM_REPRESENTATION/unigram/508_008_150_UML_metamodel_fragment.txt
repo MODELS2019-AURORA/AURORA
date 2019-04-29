@@ -1,0 +1,1 @@
+UMLMetamodelFragment Class parent child dependency Generalization Dependency supplier client stereotype Stereotype baseClass extendedElement StateMachine context top State stateMachine internal CompositeState subvertex SimpleState FinalState StateVertex compositeState PseudoState Transition trigger source target Event PrimitiveTypes Boolean Integer String

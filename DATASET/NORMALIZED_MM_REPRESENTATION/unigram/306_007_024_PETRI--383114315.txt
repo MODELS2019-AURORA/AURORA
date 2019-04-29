@@ -1,0 +1,1 @@
+pETRI PetriNet name petriNetElements PetriNetElement Node name Place marking Transition Arc multiplicity readOnly predecessor successor

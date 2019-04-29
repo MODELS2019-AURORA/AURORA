@@ -1,0 +1,1 @@
+states Module name machines Statemachine initial name value events states Event name State initial name transitions SimpleState value CompoundState machine Transition event state

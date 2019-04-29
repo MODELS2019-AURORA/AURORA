@@ -1,0 +1,1 @@
+statemachines TranslationKind Statemachine [] [] refines nodes transitions instances selfName translation StatemachineOwner statemachines Transition [] target source sourceContainer targetContainer operations AbstractNode incoming outgoing State [] refines invariants active Initial [] Final [] Any Junction [] Fork []

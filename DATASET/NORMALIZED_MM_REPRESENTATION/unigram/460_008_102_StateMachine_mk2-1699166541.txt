@@ -1,0 +1,1 @@
+statemachine_mk2 StateMachine simple_states initial_state transitions events final_states composite_states State outgoing incoming name Transition source target triggers name Final_state Event possible_states causes description Composite_state substates SimpleState

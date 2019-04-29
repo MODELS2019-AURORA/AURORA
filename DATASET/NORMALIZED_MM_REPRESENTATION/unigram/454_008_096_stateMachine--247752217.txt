@@ -1,0 +1,1 @@
+stateMachine StateMachine eventList stateList name package initial fieldList roleList State transList name fieldState transSetList Event name Trans event target DocumentField name FieldState state fieldRef EFieldState Role name TransSet transList firedBy

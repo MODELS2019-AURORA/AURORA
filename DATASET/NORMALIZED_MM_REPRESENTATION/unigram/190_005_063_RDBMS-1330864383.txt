@@ -1,0 +1,1 @@
+RDBMS Scheme name tables keys Table [] [] name columns scheme key Column [] [] name table FKey refersTo column scheme PKey column

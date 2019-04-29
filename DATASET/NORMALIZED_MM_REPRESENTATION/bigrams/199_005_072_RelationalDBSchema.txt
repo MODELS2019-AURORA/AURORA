@@ -1,0 +1,1 @@
+RelationalDBSchema.NamedElement NamedElement.name RelationalDBSchema.DataBase DataBase.SGBDname DataBase.tables RelationalDBSchema.Table Table.database Table.columns Table.key RelationalDBSchema.Column Column.dataType Column.null Column.defaultValue Column.owner Column.keyOf

@@ -1,0 +1,1 @@
+useCase UseCase systems actors Subsystem name cases Case name extensions includes extends ExtensionPoint name Includes name rules Extends name rules Actor name inheritances uses Inheritance name Uses name multiplicity

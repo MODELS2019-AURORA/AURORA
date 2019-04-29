@@ -1,0 +1,1 @@
+petrinet Place token name inhibitorArc Arc weight toPlace transition place Transition name PetriNet places arcs transitions name

@@ -1,0 +1,1 @@
+simplefsm [] SimpleFiniteStateMachine name states State name action outgoingTransitions owningFSM Transition name target owningState event

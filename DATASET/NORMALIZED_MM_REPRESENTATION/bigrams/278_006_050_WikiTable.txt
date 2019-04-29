@@ -1,0 +1,1 @@
+WikiTable.LocatedElement LocatedElement.location LocatedElement.commentsBefore LocatedElement.commentsAfter WikiTable.Table Table.border Table.style Table.class Table.caption Table.rows WikiTable.Caption Caption.content WikiTable.Row Row.cells WikiTable.Cell Cell.isHeading Cell.align Cell.style Cell.content

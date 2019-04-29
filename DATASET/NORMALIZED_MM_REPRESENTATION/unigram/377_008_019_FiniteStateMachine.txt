@@ -1,0 +1,1 @@
+FSM MgaObject name position Transition stateMachine associationStateState State stateMachine associationStateStatedst associationStateStatesrc StateMachine rootFolder state transition RootFolder name rootFolders stateMachine AssociationStateState transition dstTransition srcTransition PrimitiveTypes String Integer

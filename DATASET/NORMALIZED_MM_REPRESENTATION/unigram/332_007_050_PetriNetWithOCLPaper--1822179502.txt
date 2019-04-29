@@ -1,0 +1,1 @@
+PetriNetModel [] PetriNet [] [] transition arcPT arcTP place name Transition name preArc postArc ArcPT inscription transition place ArcTP inscription place transition Place name preArc token postArc

@@ -1,0 +1,1 @@
+simpleRdbms Schema tables RModelElement kind name Table schema column key foreignKey Column owner key foreignKey type Key column owner ForeignKey column refersTo owner

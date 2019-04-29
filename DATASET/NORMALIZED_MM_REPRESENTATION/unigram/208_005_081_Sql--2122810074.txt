@@ -1,0 +1,1 @@
+metamodel Database name table sequences Table name constraints columns rows Constraint name type References reference Column name type nullable size constraints Datatype Sequence name minValue maxValue incrementby startwith currentValue cycle Row cells Cell value column ConstraintType

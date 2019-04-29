@@ -1,0 +1,1 @@
+Reqtify Project documents TypedElement type ElementWithIL name label Document project sections TextElement description Section document sectionChildren sectionParent requirements AbstractRequirement section isContained coverLinks attribute Requirement MacroRequirement contains CoverLink linkWith Attribute value PrimitiveTypes String

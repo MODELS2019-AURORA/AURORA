@@ -1,0 +1,1 @@
+AntScripts NamedElement name DescribableElement description CommentableElement comment Project properties targets defaultTarget Property name value location refid resource file url environment classpath classpathref prefix Target if unless tasks depends TaskElement attributes elements Attribute value Task TaskParameter PrimitiveTypes String

@@ -1,0 +1,1 @@
+smachDSL PrimitivePackage statemachines Test ros StateMachine name actionclients serviceclients actionsstates ActionClient name actionname actiontype ServiceClient name servicename servicesrv ActionState name clientname transitions Transition outcome state

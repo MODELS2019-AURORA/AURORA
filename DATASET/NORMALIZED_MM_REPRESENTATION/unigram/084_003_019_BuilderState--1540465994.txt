@@ -1,0 +1,1 @@
+builderState ResourceDescription URI exportedObjects referenceDescriptions importedNames EObjectDescription fragment userData UserDataEntry key value EURI EStringArray ReferenceDescription externalFormOfEReference QualifiedName IEObjectDescription eClass name IReferenceDescription sourceEObjectUri targetEObjectUri indexInList containerEObjectURI

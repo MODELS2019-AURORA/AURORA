@@ -1,0 +1,1 @@
+bibtex Article journal volume number pages note Entries Bibtex entries Book publisher volume series address edition AuthoredEntry Author name surname has DatedEntry year MonthEntry month

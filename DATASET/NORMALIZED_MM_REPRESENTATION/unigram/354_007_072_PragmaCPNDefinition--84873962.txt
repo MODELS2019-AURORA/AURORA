@@ -1,0 +1,1 @@
+pragmacpndefinition PragmaCPN [] Place Pragma text OntologyFile OntologyDocument iri path ontology PragmaticsOntology documents net manager PetriNet ontology OntologyManager OntologyMember Annotation OWLClassSet OWLClass Transition Arc Page

@@ -1,0 +1,1 @@
+PrimitiveTypes String Boolean Grafcet LocatedElement location NamedElement name Grafcet elements connections Element grafcet Step isInitial isActive action incomingConnections outgoingConnections Transition condition incomingConnections outgoingConnections Connection grafcet StepToTransition from to TransitionToStep from to

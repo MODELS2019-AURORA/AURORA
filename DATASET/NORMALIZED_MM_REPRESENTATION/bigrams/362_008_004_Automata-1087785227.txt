@@ -1,0 +1,1 @@
+automata.Automata Automata.current Automata.initial Automata.states Automata.transitions Automata.finals automata.State State.name automata.Transition Transition.token Transition.source Transition.target Transition.name automata.Initial Initial.state Initial.name automata.Final Final.state Final.name automata.Current Current.state Current.name
