@@ -1,13 +1,13 @@
 # AURORA - AUtomated classification of metamodel RepOsitories using a neuRAl network.
 
-This repository contains the source code implementation of AURORA and the datasets used to replicate the experimental results of our MODELS'19 paper:
+This repository contains the source code implementation of AURORA and the datasets used to replicate the experimental results of a paper submitted to MODELS'19:
 
 _Automated Classification of Metamodel Repositories: A Machine Learning Approach_
 
 
 ## Introduction
 
-
+Manual classification methods of metamodel repositories require highly trained personnel and the results are usually influenced by subjectivity of human perception. Therefore, automated metamodel classification is very desirable and stringent. In this work, we apply Machine Learning techniques to automatically classify metamodels. In particular, we implement a tool on top of a feed-forward neural network. An experimental evaluation over a dataset of 555 metamodels demonstrates that the technique permits to learn from manually classified data and effectively categorize incoming unlabeled data with a considerably high prediction rate: the best performance comprehends 95.40% as success rate, 0.945 as precision, 0.938 as recall, and 0.942 as F-1 score. 
 
 ## Repository Structure
 
