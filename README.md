@@ -28,5 +28,5 @@ The name AURORA has a nice connotation. Aurora is northern lights where there ar
 
 ## Disclaimer
 
-This [dataset](http://doi.org/10.5281/zenodo.2585431) has been exploited in our evaluation. However, we do not redistribute and data from there. We only mine it to produce metadata that can be used as input for AURORA.
+This [dataset](http://doi.org/10.5281/zenodo.2585431) has been exploited in our evaluation. However, we do not redistribute data from there. We only mine it to produce metadata that can be used as input for AURORA.
 
