@@ -1,9 +1,10 @@
 # AURORA - AUtomated classification of metamodel RepOsitories using a neuRAl network.
 
-This repository contains the source code implementation of AURORA and the datasets used to replicate the experimental results of a paper submitted to MODELS'19:
+This repository contains the source code implementation of AURORA and the datasets used to replicate the experimental results of our paper that has been accepted at MODELS'19:
 
 _Automated Classification of Metamodel Repositories: A Machine Learning Approach_
 
+Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Alfonso Pierantonio, Ludovico Iovino
 
 ## Introduction
 
@@ -21,6 +22,11 @@ This repository is organized as follows:
 	* [NORMALIZED_MM_REPRESENTATION](./DATASET/NORMALIZED_MM_REPRESENTATION): plain documents that represent metamodels;
 	* [TDMS](./DATASET/TDMS): TDMs are extracted from _NORMALIZE\_MM\_REPRESENTATION_.
 
+## Abbreviation
+The name AURORA has a nice connotation. Aurora is northern lights where there are distinctive bands of moving lights, which somehow imply seperate metamodel categories. Furthermore, in Italian aurora means "the light of a new day."
+
+
 ## Disclaimer
 
 This [dataset](http://doi.org/10.5281/zenodo.2585431) has been exploited in our evaluation. However, we do not redistribute and data from there. We only mine it to produce metadata that can be used as input for AURORA.
+
