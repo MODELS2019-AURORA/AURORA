@@ -4,7 +4,13 @@ This repository contains the source code implementation of AURORA and the datase
 
 _Automated Classification of Metamodel Repositories: A Machine Learning Approach_
 
-Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Alfonso Pierantonio, Ludovico Iovino
+Phuong T. Nguyen, Juri Di Rocco, Davide Di Ruscio, Alfonso Pierantonio<sup>(1)</sup>, Ludovico Iovino<sup>(2)</sup>
+
+<sup>(1)</sup> Università degli Studi dell'Aquila, Italy
+
+<sup>(2)</sup> Gran Sasso Science Institute, Italy
+
+
 
 ## Introduction
 
@@ -28,5 +34,5 @@ The name AURORA has a nice connotation. Aurora is northern lights where there ar
 
 ## Disclaimer
 
-This [dataset](http://doi.org/10.5281/zenodo.2585431) has been exploited in our evaluation. However, we do not redistribute data from there. We only mine it to produce metadata that can be used as input for AURORA.
+The following [dataset](http://doi.org/10.5281/zenodo.2585431) has been exploited in our evaluation. However, we do not redistribute data from there. We only mine it to produce metadata that can be used as input for AURORA.
 
